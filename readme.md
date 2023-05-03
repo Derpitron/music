@@ -30,7 +30,7 @@ comment: Based off of the Electro 12 track of Asphalt 6: Adrenaline for Mobile, 
 
 comment: Join and support the Retro Asphalt Community! Discord guild link: https://discord.gg/vH6Hu6t6EV
 
-Check out my SoundCloud for alternate initial-key mixes: https://soundcloud.com/derpitronmusic/sets/asphalt-6-adrenaline-electro-12-keymixes
+Check out my SoundCloud for alternate initial-key mixes. Available for free Streaming AND Download: https://soundcloud.com/derpitronmusic/sets/asphalt-6-adrenaline-electro-12-keymixes
 
 
 **Credits**:
