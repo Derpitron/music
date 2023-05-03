@@ -10,7 +10,7 @@ comment: Created with LMMS (https://lmms.io) at 03-May-2023, 13:40 IST
 
 comment: Uses Chorium soundfont (created by openwrld@kebi.com): Download here: https://www.pistonsoft.com/soundfonts/chorium.sf2
 
-composer: Derpitron/Nicolas Dubé
+composer: Derpitron/Martin Courcy
 
 conductor: Derpitron
 
@@ -35,7 +35,7 @@ Check out my SoundCloud for alternate initial-key mixes. Available for free Stre
 
 **Credits**:
 
-- Nicolas Dubé, the original music composer for Asphalt 6: Adrenaline.
+- Martin Courcy, the original music composer for Asphalt 6: Adrenaline.
 - Gameloft, for creating the Asphalt 6: Adrenaline mobile and Java games.
 - [Gabriel Luna](https://www.youtube.com/@kitsune329), for making great remixes, and inspiring me.
 - [The Retro Asphalt Community](https://discord.gg/vH6Hu6t6EV), ever tireless in their quest to archive and document all the old mobile games of your childhood. Give them some support!
