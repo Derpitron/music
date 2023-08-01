@@ -1,0 +1,17 @@
+title: Electro 12 (Tokyo) Derpitron VIP Remix
+artist: Derpitron
+album: Asphalt 6: Adrenaline Remixes
+bpm: 130
+comment: Created with LMMS (https://lmms.io) at 19-June-2023, 14:41 IST
+composer: Martin Courcy
+composer: Derpitron
+conductor: Derpitron
+date: 2023
+genre: Electro
+initialkey: Abm
+initialkey: G#m
+tracknumber: 12
+
+Get the source MMPZ project file for LMMS at: https://github.com/derpitron/music
+
+Stream/Download from: https://soundcloud.com/derpitron/asphalt-6-adrenaline-electro-12-tokyo-derpitron-vip-remix
